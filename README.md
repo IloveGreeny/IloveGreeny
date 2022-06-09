@@ -32,7 +32,6 @@ I am Manvel Yeghiazaryan from Yerevan, Armenia.
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
-</tr>
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
