@@ -2,7 +2,7 @@
 
 I am Manvel Yeghiazaryan from Yerevan, Armenia.
 
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
+
 
 ### Programming Languages 🌐
 
