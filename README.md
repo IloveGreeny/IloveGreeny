@@ -48,12 +48,11 @@ I am Manvel Yeghiazaryan from Yerevan, Armenia.
 <span><b><center>Nginx</center></b></span> 
 <img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
 </td>
-
+</tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
-</tr>
 </tbody>
 </table>
 
